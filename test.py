@@ -1,2 +1,1 @@
-print("Testing cloning repositories")
-print("Cloning done")
+print('Test ssh')
